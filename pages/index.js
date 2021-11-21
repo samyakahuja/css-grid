@@ -67,7 +67,7 @@ export default function Home() {
             contraints mentioned above, is because of how css grids function.
           </p>
           <p>
-            css grid cells aren't boxes in the dom. instead, grid rows and
+            css grid cells {"aren't"} boxes in the dom. instead, grid rows and
             columns are invisible markers which our dom elements can use to
             position themselves. css grid structure entirly exists in css.
           </p>
@@ -77,8 +77,8 @@ export default function Home() {
               parking lots.
             </strong>{" "}
             Drivers can use these lines to align their vehicles, but really
-            they're just symbols. It's up to the driver to decide how to use
-            them.
+            {"they're"} just symbols. {"It's"} up to the driver to decide how to
+            use them.
           </p>
           <figure>
             <Image
